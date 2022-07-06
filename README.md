@@ -6,5 +6,21 @@ Diante da crescente concorrência, exigências do mercado, melhores desempenhos 
 
 Palavras-chave: Automação. Perfuração de rocha. Medição durante a perfuração (MWD). Parâmetros operacionais. Propriedades mecânicas.
 
+OBJETIVOS
+
+OBJETIVO GERAL
+
+A presente dissertação tem como objetivo apresentar os possíveis ganhos advindos a partir do uso das novas tecnologias inseridas no processo de perfuração de rochas, através de uma comparação direta entre a perfuração de furos operada no modo manual e a perfuração automatizada. 
+
+0BJETIVOS ESPECÍFICOS
+
+•	Identificar a relação de gasto energético perfuração automatizada versus a perfuração convencional;
+•	Elencar todos os fatores e/ou variáveis de possíveis “ganhos” quando da opção tecnológica na perfuração;
+•	Estabelecer os indicadores mais adequados quando da utilização da perfuração automatizada (KPI’s);
+
+
+
+
+
 
 
